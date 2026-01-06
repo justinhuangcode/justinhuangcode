@@ -92,7 +92,7 @@ const justin = {
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -100,8 +100,8 @@ const justin = {
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=justinhuangcode&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=justinhuangcode&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 </p>
 
 <p align="center">
