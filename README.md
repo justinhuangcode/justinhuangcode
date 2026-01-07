@@ -8,23 +8,48 @@
   </a>
 </p>
 
+<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justinhuangcode&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+  <a href="https://github.com/justinhuangcode?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/justinhuangcode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/justinhuangcode?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/justinhuangcode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-```typescript
-const justin = {
-    location: "Earth",
-    role: "Full-Stack Developer",
-    passions: ["AI", "Web3", "Open Source"],
-    currentFocus: "Building decentralized & intelligent applications",
-    funFact: "I debug with console.log and I'm proud of it"
-};
+<img align="right" width="250" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+```js
+> justin.introduce()
+
+{
+  name: "Justin",
+  role: "Full-Stack Developer",
+  location: "Earth",
+  available_for: ["freelance", "collaboration", "open source"],
+
+  daily_routine: {
+    morning: "coffee + code",
+    afternoon: "build & debug",
+    evening: "learn new tech"
+  },
+
+  passions: ["AI", "Web3", "Open Source"],
+  current_focus: "Building decentralized apps",
+  fun_fact: "I debug with console.log and I'm proud of it"
+}
+
+> justin.contact()
+// Feel free to reach out!
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -32,72 +57,89 @@ const justin = {
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <br>Python
 </td>
-<td valign="top" width="33%">
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <br>JavaScript
 </td>
-<td valign="top" width="33%">
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,postgres&theme=dark" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <br>React
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+  <br>Vue
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <br>Docker
 </td>
 </tr>
 <tr>
-<td valign="top" width="33%">
-
-### Web3
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
 </td>
-<td valign="top" width="33%">
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br>FastAPI
 </td>
-<td valign="top" width="33%">
-
-### Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel&theme=dark" />
-</p>
-
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <br>MySQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <br>AWS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+  <br>GCP
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+  <br>Solidity
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
+  <br>Ethereum
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br>VS Code
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+  <br>Vercel
 </td>
 </tr>
 </table>
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-## GitHub Stats
+<details open>
+<summary><h2>GitHub Stats</h2></summary>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github" />
@@ -108,9 +150,23 @@ const justin = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
 </p>
 
+</details>
+
 ---
 
-## Contribution Snake
+<details open>
+<summary><h2>GitHub Trophies</h2></summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><h2>Contribution Snake</h2></summary>
 
 <p align="center">
   <picture>
@@ -120,13 +176,18 @@ const justin = {
   </picture>
 </p>
 
+</details>
+
 ---
 
-## Activity Graph
+<details>
+<summary><h2>Activity Graph</h2></summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinhuangcode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" />
 </p>
+
+</details>
 
 ---
 
