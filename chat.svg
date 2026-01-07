@@ -1,0 +1,271 @@
+<svg width="550" height="280" viewBox="0 0 550 280" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bubble {
+      fill: #e9e9eb;
+    }
+    a {
+      fill: #0079ff;
+    }
+    text {
+      fill: #242424;
+      font-size: 18px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      letter-spacing: -0.02em;
+    }
+
+    .emoji {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+    }
+
+    .typing-1 {
+      opacity: 0;
+      animation: fade-in-out 1.5s;
+    }
+
+    .msg-1 {
+      animation: wait 1.7s, msg-1 0.2s 1.7s;
+    }
+
+    .typing-2 {
+      opacity: 0;
+      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+    }
+
+    .msg-2 {
+      animation: wait 4.2s, msg-2 0.2s 4.2s;
+    }
+
+    .typing-3 {
+      opacity: 0;
+      animation: wait 5s, fade-in-out 1.5s 5s;
+    }
+
+    .msg-3 {
+      animation: wait 6.7s, msg-3 0.2s 6.7s;
+    }
+
+    .typing-4 {
+      opacity: 0;
+      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+    }
+
+    .msg-4 {
+      animation: wait 9.2s, msg-4 0.2s 9.2s;
+    }
+
+    .typing-5 {
+      opacity: 0;
+      animation: wait 10s, fade-in-out 1.5s 10s;
+    }
+
+    .msg-5 {
+      animation: wait 11.7s, msg-5 0.2s 11.7s;
+    }
+
+    @keyframes wait {
+      0%,
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes fade-in-out {
+      0%,
+      100% {
+        opacity: 0;
+      }
+      25%,
+      90% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes msg-1 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 5px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 0);
+      }
+    }
+
+    @keyframes msg-2 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 53px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 48px);
+      }
+    }
+
+    @keyframes msg-3 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 101px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 96px);
+      }
+    }
+
+    @keyframes msg-4 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 149px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 144px);
+      }
+    }
+
+    @keyframes msg-5 {
+      0% {
+        opacity: 0;
+        transform: translate(10px, 197px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(10px, 192px);
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .bubble {
+        fill: #3b3b3d;
+      }
+      text {
+        fill: #dcdcdc;
+      }
+      a {
+        fill: #0c82f9;
+      }
+    }
+
+  </style>
+
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Hi, I'm Justin -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="180" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Justin </text>
+  </g>
+
+  <!-- typing 2 -->
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Full-Stack Developer -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Full-Stack Developer passionate about AI &amp; Web3</text>
+  </g>
+
+  <!-- typing 3 -->
+  <g transform="translate(10, 96)" class="typing-3">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Working on AI & Blockchain -->
+  <g transform="translate(10, 96)" class="msg-3">
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Working on AI &amp; Blockchain Applications</text>
+  </g>
+
+  <!-- typing 4 -->
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Learning LangChain, Smart Contracts, DeFi -->
+  <g transform="translate(10, 144)" class="msg-4">
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Learning LangChain, Smart Contracts, DeFi</text>
+  </g>
+
+  <!-- typing 5 -->
+  <g transform="translate(10, 192)" class="typing-5">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Let's build something amazing -->
+  <g transform="translate(10, 192)" class="msg-5">
+    <rect width="340" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Let's build something amazing together!</text>
+  </g>
+</svg>

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://github.com/justinhuangcode/justinhuangcode/blob/main/chat.svg)](https://github.com/justinhuangcode)
+
  <h3 align="center">A Full-Stack Developer passionate about AI & Web3</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=justinhuangcode)](https://github.com/ryo-ma/github-profile-trophy)
