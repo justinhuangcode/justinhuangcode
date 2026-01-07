@@ -4,12 +4,6 @@
 
  <h3 align="center">A Full-Stack Developer passionate about AI & Web3</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=justinhuangcode)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <a href="https://github.com/justinhuangcode/github-readme-stats"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" /></picture></a>
-  <a href="https://github.com/justinhuangcode/github-readme-stats"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
 
 
 <br>
@@ -22,12 +16,6 @@
 - 👯 I'm looking to collaborate on **AI/Web3/Open Source Projects**
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Justin+Huang" alt="Justin" /></a>
-  <a href="https://github.com/justinhuangcode/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;AI+%26+Web3+Builder;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<br/>
 
 <!-- Social badges section -->
 <p align="center">
@@ -102,25 +90,6 @@
   </p>
 </details>
 
-<details>
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justinhuangcode's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=justinhuangcode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justinhuangcode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="justinhuangcode's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=justinhuangcode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -235,32 +204,6 @@
 </div>
 
 
-<p align="center">
-
-<a href="https://github.com/justinhuangcode?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@justinhuangcode's github-readme-stats"/></a>
-<a href="https://github.com/justinhuangcode?tab=stars"><img src="https://streak-stats.demolab.com?user=justinhuangcode&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@justinhuangcode's github-readme-streak-stats"/></a>
-
-</p>
-
-
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinhuangcode&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</p>
-<!-- activity graph heroku-app end -->
-
-
-<p align="center">
-<a href="https://github.com/justinhuangcode?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@justinhuangcode's trophy stats"/></a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/justinhuangcode"><img src="https://profile-counter.glitch.me/{justinhuangcode}/count.svg" alt="justinhuangcode :: Visitor's Count" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/justinhuangcode/justinhuangcode/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
 ## Languages and Tools
@@ -293,15 +236,6 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=justinhuangcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=justinhuangcode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br/>
 
 ## 🤝 Connect With Me
 
