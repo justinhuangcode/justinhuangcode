@@ -1,18 +1,24 @@
 ### Hi there 👋
 
-<h3 align="center">A Full-Stack Developer passionate about AI & Web3</h3>
+ <h3 align="center">A Full-Stack Developer passionate about AI & Web3</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=justinhuangcode)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <a href="https://github.com/justinhuangcode/github-readme-stats"><img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" /></a>
-  <a href="https://github.com/justinhuangcode/github-readme-stats"><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&hide_title=false&layout=compact&theme=gotham&count_private=true" /></a>
+  <a href="https://github.com/justinhuangcode/github-readme-stats"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" /></picture></a>
+  <a href="https://github.com/justinhuangcode/github-readme-stats"><picture><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
+
 <br>
+
+
 
 - 😄 I have interests in **AI/LLM/Web3/DeFi**
 - 🔭 I'm currently working on **AI & Blockchain Applications**
 - 🌱 I'm currently learning **LangChain, Smart Contracts, DeFi**
 - 👯 I'm looking to collaborate on **AI/Web3/Open Source Projects**
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Justin+Huang" alt="Justin" /></a>
@@ -32,8 +38,9 @@
 
 <br/>
 
-<details>
+<details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -42,10 +49,10 @@
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajustinhuangcode+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
 
@@ -68,14 +75,14 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
       <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
   </p>
 
@@ -96,7 +103,10 @@
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
+
   <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justinhuangcode's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=justinhuangcode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="justinhuangcode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -104,12 +114,13 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="justinhuangcode's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=justinhuangcode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
 # 💻 My favorite tools and technologies
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -118,7 +129,9 @@
       <br>React
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Python
     </td>
     <td align="center" width="96">
@@ -147,32 +160,31 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
-    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -180,10 +192,18 @@
       <br>VsCode
     </td>
   </tr>
-  <tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+      </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br>Solidity
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
@@ -202,37 +222,84 @@
       <br>Vercel
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
-  </tr>
+ </tr>
 </table>
 <br><br>
+
+
 </div>
 
+
 <p align="center">
-<a href="https://github.com/justinhuangcode?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@justinhuangcode's github-readme-stats"/></a>
-<a href="https://github.com/justinhuangcode?tab=stars"><img src="https://streak-stats.demolab.com?user=justinhuangcode&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@justinhuangcode's github-readme-streak-stats"/></a>
+
+<a href="https://github.com/justinhuangcode?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=justinhuangcode&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@justinhuangcode's github-readme-stats"/></a>
+<a href="https://github.com/justinhuangcode?tab=stars"><img src="https://streak-stats.demolab.com?user=justinhuangcode&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@justinhuangcode's github-readme-streak-stats"/></a>
+
 </p>
 
-<!-- activity graph -->
+
+
+<!-- activity graph heroku-app start -->
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinhuangcode&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
+<!-- activity graph heroku-app end -->
+
 
 <p align="center">
-<a href="https://github.com/justinhuangcode?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=onestar&no-frame=true&column=4&row=2" width="60%" alt="@justinhuangcode's trophy stats"/></a>
+<a href="https://github.com/justinhuangcode?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@justinhuangcode's trophy stats"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/justinhuangcode/justinhuangcode/output/github-snake-dark.svg" alt="Snake animation" style="max-width: 100%;">
+
+<p align="center">
+<a href="https://github.com/justinhuangcode"><img src="https://profile-counter.glitch.me/{justinhuangcode}/count.svg" alt="justinhuangcode :: Visitor's Count" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/justinhuangcode/justinhuangcode/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
+
+## Languages and Tools
+<div align="center">
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
+</div>
+
+<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=justinhuangcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=justinhuangcode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinhuangcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=justinhuangcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br/>
 
 ## 🤝 Connect With Me
 
