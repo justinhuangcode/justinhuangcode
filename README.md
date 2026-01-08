@@ -96,103 +96,103 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+        <img src="./assets/icons/linux.svg" alt="Linux" width="65" height="65" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+        <img src="./assets/icons/github.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Bitcoin" width="65" height="65" />
+        <img src="./assets/icons/bitcoin.svg" alt="Bitcoin" width="65" height="65" />
       <br>Bitcoin
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/deepseek/4D6BFF" alt="DeepSeek" width="65" height="65" />
+        <img src="./assets/icons/deepseek.svg" alt="DeepSeek" width="65" height="65" />
       <br>DeepSeek
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
+        <img src="./assets/icons/python.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+        <img src="./assets/icons/js.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
+        <img src="./assets/icons/ts.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+        <img src="./assets/icons/react.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="./assets/icons/vue.svg" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <img src="./assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+        <img src="./assets/icons/solidity.svg" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="./assets/icons/html.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <img src="./assets/icons/css.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <img src="./assets/icons/tailwind.svg" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="./assets/icons/postgres.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="./assets/icons/redis.svg" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
+        <img src="./assets/icons/ethereum.svg" width="48" height="48" alt="Ethereum" />
       <br>Ethereum
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+        <img src="./assets/icons/gcp.svg" width="48" height="48" alt="GCP" />
       <br>GCP
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+        <img src="./assets/icons/cloudflare.svg" width="48" height="48" alt="Cloudflare" />
       <br>Cloudflare
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+        <img src="./assets/icons/graphql.svg" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
   </tr>
@@ -207,30 +207,30 @@
 
 ## Languages and Tools
 <div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="25" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="25" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="25" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="25" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="25" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="25" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="25" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="25" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="25" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="25" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="25" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="25" /></a>
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" alt="Redis" height="25" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="25" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="25" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="25" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="25" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="25" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="25" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="25" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=flask" alt="Flask" height="25" /></a>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="25" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" height="25" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="25" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/react.svg" alt="React" height="25" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/vue.svg" alt="Vue.js" height="25" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./assets/icons/css.svg" alt="CSS3" height="25" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./assets/icons/html.svg" alt="HTML5" height="25" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/js.svg" alt="JavaScript" height="25" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/ts.svg" alt="TypeScript" height="25" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/python.svg" alt="Python" height="25" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/nodejs.svg" alt="Node.js" height="25" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/express.svg" alt="Express.js" height="25" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/mongodb.svg" alt="MongoDB" height="25" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/postgres.svg" alt="PostgreSQL" height="25" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/mysql.svg" alt="MySQL" height="25" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="./assets/icons/redis.svg" alt="Redis" height="25" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/docker.svg" alt="Docker" height="25" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/aws.svg" alt="AWS" height="25" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/gcp.svg" alt="GCP" height="25" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/linux.svg" alt="Linux" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/git.svg" alt="Git" height="25" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="./assets/icons/bash.svg" alt="Bash" height="25" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/tailwind.svg" alt="Tailwind CSS" height="25" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/flask.svg" alt="Flask" height="25" /></a>
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/graphql.svg" alt="GraphQL" height="25" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./assets/icons/nextjs.svg" alt="NextJS" height="25" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="./assets/icons/figma.svg" alt="Figma" height="25" /></a>
 </div>
 
 <br/>
