@@ -96,15 +96,19 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Bitcoin" width="65" height="65" />
-      <br>Bitcoin
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/deepseek/536AF5" alt="DeepSeek" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Bitcoin" width="65" height="65" />
+      <br>Bitcoin
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/deepseek/4D6BFF" alt="DeepSeek" width="65" height="65" />
       <br>DeepSeek
     </td>
     <td align="center" width="96">
@@ -122,10 +126,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
-      <br>Docker
     </td>
   </tr>
   <tr>
