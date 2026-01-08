@@ -382,3 +382,20 @@ Location: .github/pull_request_template.md
 
 Law: PR is the contract of code review. Clear descriptions respect the reviewer's time.
 </PR_TEMPLATE>
+
+<PROJECT_STRUCTURE>
+justinhuangcode - GitHub Profile README Repository
+
+Directory:
+  assets/     - Static assets (SVG, images)
+  .github/    - GitHub configurations (workflows, templates)
+
+Files:
+  README.md   - Profile content displayed on GitHub
+  CLAUDE.md   - Project constitution (L1)
+
+Assets:
+  assets/chat.svg - Animated typing dialogue (supports light/dark mode)
+
+[PROTOCOL]: Update this section when directory structure changes
+</PROJECT_STRUCTURE>
