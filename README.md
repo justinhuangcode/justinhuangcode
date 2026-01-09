@@ -112,6 +112,14 @@
       <br>DeepSeek
     </td>
     <td align="center" width="96">
+        <img src="./assets/icons/ts.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/icons/moonbit.png" alt="MoonBit" width="65" height="65" />
+      <br>MoonBit
+    </td>
+    <td align="center" width="96">
         <img src="./assets/icons/python.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
@@ -119,16 +127,12 @@
         <img src="./assets/icons/js.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="./assets/icons/ts.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="./assets/icons/react.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="./assets/icons/react.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
     <td align="center" width="96">
         <img src="./assets/icons/vue.svg" width="48" height="48" alt="Vue" />
       <br>Vue
