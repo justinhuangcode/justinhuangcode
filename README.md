@@ -165,12 +165,12 @@
         <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="./assets/icons/postgres.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -198,6 +198,14 @@
     <td align="center" width="96">
         <img src="./assets/icons/graphql.svg" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
