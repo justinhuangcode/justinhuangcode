@@ -127,12 +127,12 @@
         <img src="./assets/icons/js.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-        <img src="./assets/icons/react.svg" width="48" height="48" alt="React" />
+        <img src="./assets/icons/react.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="./assets/icons/vue.svg" width="48" height="48" alt="Vue" />
       <br>Vue
