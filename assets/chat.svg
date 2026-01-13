@@ -193,8 +193,8 @@
 
   <!-- Full-Stack Developer -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Full-Stack Developer passionate about AI &amp; Web3</text>
+    <rect width="480" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Full-Stack Developer × AI Engineer × Language Enthusiast</text>
   </g>
 
   <!-- typing 3 -->
@@ -215,10 +215,10 @@
 
   </g>
 
-  <!-- Working on AI & Blockchain -->
+  <!-- Working on AI -->
   <g transform="translate(10, 96)" class="msg-3">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Working on AI &amp; Blockchain Applications</text>
+    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Building AI-powered apps &amp; developer tools</text>
   </g>
 
   <!-- typing 4 -->
@@ -239,10 +239,10 @@
 
   </g>
 
-  <!-- Learning LangChain, Smart Contracts, DeFi -->
+  <!-- Diving into -->
   <g transform="translate(10, 144)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Learning LangChain, Smart Contracts, DeFi</text>
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Diving into LLM, AI Agents, Compilers, New PLs</text>
   </g>
 
   <!-- typing 5 -->

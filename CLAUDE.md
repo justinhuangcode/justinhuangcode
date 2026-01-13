@@ -387,17 +387,22 @@ Law: PR is the contract of code review. Clear descriptions respect the reviewer'
 justinhuangcode - GitHub Profile README Repository
 
 Directory:
-  assets/         - Static assets (SVG, images)
-  assets/icons/   - Local tech stack icons (31 SVGs, self-hosted for reliability)
-  .github/        - GitHub configurations (workflows, templates)
+  assets/           - Static assets (SVG, images)
+  assets/icons/     - Local tech stack icons (32 SVGs, self-hosted for reliability)
+  .github/          - GitHub configurations (workflows, templates)
+  .github/workflows - GitHub Actions (snake.yml generates contribution snake)
 
 Files:
   README.md   - Profile content displayed on GitHub
   CLAUDE.md   - Project constitution (L1)
 
 Assets:
-  assets/chat.svg     - Animated typing dialogue (supports light/dark mode)
-  assets/icons/*.svg  - Tech stack icons (python, react, typescript, etc.)
+  assets/chat.svg     - Animated iMessage-style greeting (CSS keyframes, dark mode support)
+  assets/icons/*.svg  - Tech stack icons (27 displayed in README, 32 total)
+
+Branches:
+  main    - Source code
+  output  - Generated snake animation (auto-updated every 12h)
 
 [PROTOCOL]: Update this section when directory structure changes
 </PROJECT_STRUCTURE>
